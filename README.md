@@ -1,2 +1,1 @@
-尚学堂线下全部专业全部视频
-    尚学堂资源地址：https://pan.baidu.com/s/1OgnIncjY5bs7KxqLkbfspw     提取码：wptt 
+这是一个markdown文件，你们一会需要熟悉他的语法，必须的
